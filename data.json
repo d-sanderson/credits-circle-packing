@@ -97,7 +97,7 @@
             },
             {
               "name": "hand-sanitizer-stands",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "hidden-capsule",
@@ -105,11 +105,11 @@
             },
             {
               "name": "hidden-nimseskus-hampsters",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "house-of-eternal-return-story-development",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "isle-of-pal-diorama-final-resting",
@@ -129,7 +129,7 @@
             },
             {
               "name": "narrative-props",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "obsidiopolis-animations",
@@ -173,7 +173,7 @@
             },
             {
               "name": "summer-in-the-multiverse",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "techno-room",
@@ -235,23 +235,23 @@
             },
             {
               "name": "charter-origins-part-1",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "charter-origins-part-2",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "charter-origins-part-3",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "charter-origins-part-4",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "charter-origins-part-5",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "dominique-petrin-mural",
@@ -267,15 +267,15 @@
             },
             {
               "name": "hand-sanitizer-stands",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "hidden-nimseskus-hampsters",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "house-of-eternal-return-story-development",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "infinity-spa",
@@ -299,7 +299,7 @@
             },
             {
               "name": "narrative-props",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "saloon",
@@ -367,7 +367,7 @@
             },
             {
               "name": "summer-in-the-multiverse",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "tv-tunnel",
@@ -537,11 +537,11 @@
             },
             {
               "name": "hand-sanitizer-stands",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "hidden-nimseskus-hampsters",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "house-of-eternal-return-story-development",
@@ -602,23 +602,23 @@
           "children": [
             {
               "name": "charter-origins-part-1",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "charter-origins-part-2",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "charter-origins-part-3",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "charter-origins-part-4",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "charter-origins-part-5",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "glowquarium",
@@ -634,11 +634,11 @@
             },
             {
               "name": "house-of-eternal-return-story-development",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "lucius-astral-projects",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "midnight-sky-at-the-homestead",
@@ -646,59 +646,59 @@
             },
             {
               "name": "narrative-props",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-a-fresh-start",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-a-great-place-to-raise-kids",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-a-tragic-experiment",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-a-voice-in-the-fog-space",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-lucius-comes-clean",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-lucius-meets-the-charter",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-memory-soup",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-nicolae-finds-lex-in-the-fog-space",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-nicolae-hears-the-multiverse",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-piper-and-the-redwood",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-pipers-grief",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-plant-powers",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-the-resurrection",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "space-sphere",
@@ -710,7 +710,7 @@
             },
             {
               "name": "summer-in-the-multiverse",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "sushi-the-luck-dragon-",
@@ -779,15 +779,15 @@
             },
             {
               "name": "hand-sanitizer-stands",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "hidden-nimseskus-hampsters",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "house-of-eternal-return-story-development",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "livestock-pod",
@@ -799,11 +799,11 @@
             },
             {
               "name": "lucius-astral-projects",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "narrative-props",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "raven",
@@ -815,59 +815,59 @@
             },
             {
               "name": "selig-pastore-memories-a-fresh-start",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-a-great-place-to-raise-kids",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-a-tragic-experiment",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-a-voice-in-the-fog-space",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-lucius-comes-clean",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-lucius-meets-the-charter",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-memory-soup",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-nicolae-finds-lex-in-the-fog-space",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-nicolae-hears-the-multiverse",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-piper-and-the-redwood",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-pipers-grief",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-plant-powers",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "selig-pastore-memories-the-resurrection",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "summer-in-the-multiverse",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "tree-trailer",
@@ -972,7 +972,7 @@
             },
             {
               "name": "house-of-eternal-return-story-development",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "jean-s-dream-journal",
@@ -1020,7 +1020,7 @@
             },
             {
               "name": "narrative-props",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "parents-bedroom",
@@ -1076,7 +1076,7 @@
             },
             {
               "name": "summer-in-the-multiverse",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "teen-room",
@@ -1182,7 +1182,7 @@
             },
             {
               "name": "exhibition-frosting",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "factory-growths",
@@ -1274,7 +1274,7 @@
             },
             {
               "name": "omega-access-experience",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "omega-mart-deli-portal",
@@ -1330,7 +1330,7 @@
             },
             {
               "name": "vocs-telephone-system-in-omega-mart",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "wormhole-actualization-machine",
@@ -1427,7 +1427,7 @@
             },
             {
               "name": "exhibition-frosting",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "herman-resources-robot",
@@ -1435,7 +1435,7 @@
             },
             {
               "name": "in-store-announcements",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "laser-cubicles",
@@ -1475,7 +1475,7 @@
             },
             {
               "name": "omega-access-experience",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "op-art-mural",
@@ -1507,7 +1507,7 @@
             },
             {
               "name": "vocs-telephone-system-in-omega-mart",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "welcome",
@@ -1657,7 +1657,7 @@
             },
             {
               "name": "in-store-announcements",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "janitor-closet-portal",
@@ -1713,7 +1713,7 @@
             },
             {
               "name": "omega-mart-commercial-404-chocolate",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "omega-mart-commercial-americanized-beef",
@@ -1893,7 +1893,7 @@
             },
             {
               "name": "vocs-telephone-system-in-omega-mart",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "welcome-to-omega-mart-and-the-dramcorp-family",
@@ -1942,7 +1942,7 @@
             },
             {
               "name": "exhibition-frosting",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "fractalife",
@@ -1982,7 +1982,7 @@
             },
             {
               "name": "omega-access-experience",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "population-sign",
@@ -2018,7 +2018,7 @@
             },
             {
               "name": "stars-of-seven-monolith-7vision-community-television",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-dart-board-7vision-community-television",
@@ -2056,15 +2056,15 @@
           "children": [
             {
               "name": "a-message-from-qdot-the-promise-of-the-last-stop",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "araceli-memo-my-mother-is-alive%E2%80%A6",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "ariel-sting-memo-the-big-mem",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "book-of-whales",
@@ -2088,23 +2088,23 @@
             },
             {
               "name": "chyas-memos-who-i-really-am-now-that-i-trust-you-final-memory-received-you-did-it-two-memories-left",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "coin-ops",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "convergence-station-story-development",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "exhibit-wide-signs-graphics",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "exhibition-frosting",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "frozen-flowers",
@@ -2112,7 +2112,7 @@
             },
             {
               "name": "jessamy-memo-i-found-something-you%E2%80%99re-seeking",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "laser-orrery",
@@ -2124,27 +2124,27 @@
             },
             {
               "name": "memory-araceli%E2%80%99s-memory-of-her-mother",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "memory-jessamy%E2%80%99s-memory-of-the-mindsplitter",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "memory-pavel%E2%80%99s-memory-of-eemia",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "memory-tracking-error%E2%80%99s-vision-of-darya-kane",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "memory-storm",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "mems",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "navigator-1",
@@ -2156,11 +2156,11 @@
             },
             {
               "name": "pavel-memo-in-thanks-for-helping-my-people",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "qpass-experience",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "safe-travels",
@@ -2168,11 +2168,11 @@
             },
             {
               "name": "slimebiosis",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "techstream",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-awakening-of-a-forgotten-past",
@@ -2180,47 +2180,47 @@
             },
             {
               "name": "the-forgotten-four-chapter-1-finale",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-chya%E2%80%99s-epiphany",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-daryas-desire",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-pam%E2%80%99s-search",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-panoa%E2%80%99s-melody",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-runes-vision",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "tracking-error-forgotten-four-grwm-tutorial",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "tracking-error-noooo-all-my-mems-got-hacked",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "tracking-error-reaction-to-runes-memory",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "tracking-error-who-is-qdot-chya",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "tracking-error-memo-this-mem-is-fire",
-              "size": 100
+              "size": 2.0
             }
           ]
         },
@@ -2229,15 +2229,15 @@
           "children": [
             {
               "name": "a-message-from-qdot-the-promise-of-the-last-stop",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "araceli-memo-my-mother-is-alive%E2%80%A6",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "ariel-sting-memo-the-big-mem",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "aztec-camera",
@@ -2297,15 +2297,15 @@
             },
             {
               "name": "chyas-memos-who-i-really-am-now-that-i-trust-you-final-memory-received-you-did-it-two-memories-left",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "coin-ops",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "convergence-station-story-development",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "crystal-future",
@@ -2317,11 +2317,11 @@
             },
             {
               "name": "exhibit-wide-signs-graphics",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "exhibition-frosting",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "finger-dome",
@@ -2345,7 +2345,7 @@
             },
             {
               "name": "jessamy-memo-i-found-something-you%E2%80%99re-seeking",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "library-of-ossuary-selected-works-display",
@@ -2369,31 +2369,31 @@
             },
             {
               "name": "memory-araceli%E2%80%99s-memory-of-her-mother",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "memory-jessamy%E2%80%99s-memory-of-the-mindsplitter",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "memory-pavel%E2%80%99s-memory-of-eemia",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "memory-tracking-error%E2%80%99s-vision-of-darya-kane",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "memory-storm",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "memory-storms",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "mems",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "moire-room",
@@ -2429,7 +2429,7 @@
             },
             {
               "name": "pavel-memo-in-thanks-for-helping-my-people",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "pizza-pals-playzone",
@@ -2441,7 +2441,7 @@
             },
             {
               "name": "qpass-experience",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "r-z-nest",
@@ -2461,7 +2461,7 @@
             },
             {
               "name": "sentient-slime",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "sequencer-room",
@@ -2469,7 +2469,7 @@
             },
             {
               "name": "slimebiosis",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "stained-glass-doorway",
@@ -2477,31 +2477,31 @@
             },
             {
               "name": "techstream",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-chapter-1-finale",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-chya%E2%80%99s-epiphany",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-daryas-desire",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-pam%E2%80%99s-search",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-panoa%E2%80%99s-melody",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-runes-vision",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-parlour-birds",
@@ -2517,23 +2517,23 @@
             },
             {
               "name": "tracking-error-forgotten-four-grwm-tutorial",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "tracking-error-noooo-all-my-mems-got-hacked",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "tracking-error-reaction-to-runes-memory",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "tracking-error-who-is-qdot-chya",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "tracking-error-memo-this-mem-is-fire",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "undermallers-rat-fight-game",
@@ -2549,7 +2549,7 @@
             },
             {
               "name": "vocs-telephone-system-in-convergence-station",
-              "size": 100
+              "size": 2.0
             }
           ]
         },
@@ -2562,7 +2562,7 @@
             },
             {
               "name": "exhibit-wide-signs-graphics",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "plethodon",
@@ -2583,15 +2583,15 @@
           "children": [
             {
               "name": "a-message-from-qdot-the-promise-of-the-last-stop",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "araceli-memo-my-mother-is-alive%E2%80%A6",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "ariel-sting-memo-the-big-mem",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "bacon-faces",
@@ -2599,7 +2599,7 @@
             },
             {
               "name": "chyas-memos-who-i-really-am-now-that-i-trust-you-final-memory-received-you-did-it-two-memories-left",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "cinrodo",
@@ -2607,11 +2607,11 @@
             },
             {
               "name": "coin-ops",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "convergence-station-story-development",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "cosmohedron",
@@ -2631,11 +2631,11 @@
             },
             {
               "name": "exhibit-wide-signs-graphics",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "exhibition-frosting",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "faerie-orbs",
@@ -2679,7 +2679,7 @@
             },
             {
               "name": "jessamy-memo-i-found-something-you%E2%80%99re-seeking",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "lonely-spore-the-untouchables",
@@ -2691,19 +2691,19 @@
             },
             {
               "name": "memory-araceli%E2%80%99s-memory-of-her-mother",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "memory-jessamy%E2%80%99s-memory-of-the-mindsplitter",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "memory-pavel%E2%80%99s-memory-of-eemia",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "memory-tracking-error%E2%80%99s-vision-of-darya-kane",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "memory-spore",
@@ -2711,11 +2711,11 @@
             },
             {
               "name": "memory-storm",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "mems",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "midge-the-swamp-mom-ster",
@@ -2743,7 +2743,7 @@
             },
             {
               "name": "pavel-memo-in-thanks-for-helping-my-people",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "poplinks",
@@ -2755,7 +2755,7 @@
             },
             {
               "name": "qpass-experience",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "rainbow-lichen",
@@ -2775,7 +2775,7 @@
             },
             {
               "name": "slimebiosis",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "somnium-glories",
@@ -2799,7 +2799,7 @@
             },
             {
               "name": "techstream",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "temptress-and-victim-in-one",
@@ -2823,27 +2823,27 @@
             },
             {
               "name": "the-forgotten-four-chapter-1-finale",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-chya%E2%80%99s-epiphany",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-daryas-desire",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-pam%E2%80%99s-search",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-panoa%E2%80%99s-melody",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-runes-vision",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-ryoonis",
@@ -2855,23 +2855,23 @@
             },
             {
               "name": "tracking-error-forgotten-four-grwm-tutorial",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "tracking-error-noooo-all-my-mems-got-hacked",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "tracking-error-reaction-to-runes-memory",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "tracking-error-who-is-qdot-chya",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "tracking-error-memo-this-mem-is-fire",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "twig",
@@ -3036,7 +3036,7 @@
             },
             {
               "name": "convergence-station-story-development",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "cosmic-mural",
@@ -3116,7 +3116,7 @@
             },
             {
               "name": "qdot-qspot-qiosk-rats-ii",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "qdot-tram-wayfinding-videos",
@@ -3217,7 +3217,7 @@
           "children": [
             {
               "name": "a-message-from-qdot-the-promise-of-the-last-stop",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "alley",
@@ -3229,7 +3229,7 @@
             },
             {
               "name": "araceli-memo-my-mother-is-alive%E2%80%A6",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "ariel-sting-in-geary-s-alley",
@@ -3237,71 +3237,71 @@
             },
             {
               "name": "ariel-sting-memo-the-big-mem",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-alien-food-bowl",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-trash-gloves",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-4-products",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-acne",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-allergies",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-android-scan",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-convergence-exchange",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-crushinator",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-fashion",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-fishy-delishy",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-frish",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-fruits",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-gyre-apartments",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-immensity-travel",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-infatuation-station",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-machine",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-mega-voter-part-1",
@@ -3317,11 +3317,11 @@
             },
             {
               "name": "c-street-commercial-memory-fraud",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-money",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-mr-corner",
@@ -3329,35 +3329,35 @@
             },
             {
               "name": "c-street-commercial-noodle",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-panhandling",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-phaseball",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-shlorg",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-smoking",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-trash-energy",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-trash-pile",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-commercial-zhibardiq-zhibardeaux-ossuarian-memories",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "c-street-eyeballs",
@@ -3377,7 +3377,7 @@
             },
             {
               "name": "cccmnn-news",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "ceiling-stars",
@@ -3385,7 +3385,7 @@
             },
             {
               "name": "chyas-memos-who-i-really-am-now-that-i-trust-you-final-memory-received-you-did-it-two-memories-left",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "city-streets-facades",
@@ -3393,7 +3393,7 @@
             },
             {
               "name": "coin-ops",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "convergence-exchange",
@@ -3417,7 +3417,7 @@
             },
             {
               "name": "eemia-today-news",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "eggs-in-egg-crate",
@@ -3437,7 +3437,7 @@
             },
             {
               "name": "exhibition-frosting",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "exo-terrarium",
@@ -3605,7 +3605,7 @@
             },
             {
               "name": "jessamy-memo-i-found-something-you%E2%80%99re-seeking",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "jumbotrons",
@@ -3633,23 +3633,23 @@
             },
             {
               "name": "memory-araceli%E2%80%99s-memory-of-her-mother",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "memory-jessamy%E2%80%99s-memory-of-the-mindsplitter",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "memory-pavel%E2%80%99s-memory-of-eemia",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "memory-tracking-error%E2%80%99s-vision-of-darya-kane",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "memory-storm",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "memory-storms",
@@ -3657,7 +3657,7 @@
             },
             {
               "name": "mems",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "mijo-miho-cyber-cafe",
@@ -3709,7 +3709,7 @@
             },
             {
               "name": "pavel-memo-in-thanks-for-helping-my-people",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "pet-store-window",
@@ -3729,7 +3729,7 @@
             },
             {
               "name": "qpass-experience",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "rejoice-in-trash",
@@ -3753,11 +3753,11 @@
             },
             {
               "name": "sentient-slime",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "slimebiosis",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "subway-in-geary-s-alley",
@@ -3769,7 +3769,7 @@
             },
             {
               "name": "techstream",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-cycle",
@@ -3777,27 +3777,27 @@
             },
             {
               "name": "the-forgotten-four-chapter-1-finale",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-chya%E2%80%99s-epiphany",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-daryas-desire",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-pam%E2%80%99s-search",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-panoa%E2%80%99s-melody",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-forgotten-four-runes-vision",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "the-game-show",
@@ -3865,23 +3865,23 @@
             },
             {
               "name": "tracking-error-forgotten-four-grwm-tutorial",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "tracking-error-noooo-all-my-mems-got-hacked",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "tracking-error-reaction-to-runes-memory",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "tracking-error-who-is-qdot-chya",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "tracking-error-memo-this-mem-is-fire",
-              "size": 100
+              "size": 2.0
             },
             {
               "name": "tracking-error-podcast",
