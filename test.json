@@ -3,20 +3,38 @@
   "children": [
     {
       "name": "HOER",
-      "size": "178",
       "children": [
-        { "name": "Art City", "children": ["Bathroom"], "size": 61 },
-        { "name": "The House", "children": ["Nostalgia Deer"], "size": 100 },
+        {
+          "name": "Art City",
+          "children": [
+            { "name": "Lazer Harp Projections", "size": 100 },
+            { "name": "Star Tracer", "size": 100 }
+          ]
+        },
+        {
+          "name": "The House",
+          "children": [
+            { "name": "Lazer Harp Projections", "size": 100 },
+            { "name": "Star Tracer", "size": 100 }
+          ]
+        },
         {
           "name": "Front of House",
-          "children": ["Becoming Human"],
-          "size": 100
+          "children": [{ "name": "Becoming Human", "size": 100 }],
         },
-        { "name": "The Forest", "children": ["Nostalgia Deer"], "size": 100 },
+        {
+          "name": "The Forest",
+          "children": [
+            { "name": "Lazer Harp Projections", "size": 100 },
+            { "name": "Star Tracer", "size": 100 }
+          ]
+        },
         {
           "name": "Beam Space",
-          "children": ["Lazer Harp Projections", "Star Tracer"],
-          "size": 100
+          "children": [
+            { "name": "Lazer Harp Projections", "size": 100 },
+            { "name": "Star Tracer", "size": 100 }
+          ]
         },
         { "name": "The Caves", "children": ["Glowquarium"], "size": 100 }
       ]
