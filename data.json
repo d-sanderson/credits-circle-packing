@@ -1,0 +1,96 @@
+{
+  "name": "exhibitions",
+  "children": [
+    {
+      "name": "house-of-eternal-return",
+      "children": [
+        {
+          "name": "Art City",
+          "children": []
+        },
+        {
+          "name": "Beam Space",
+          "children": []
+        },
+        {
+          "name": "Fancy Town",
+          "children": []
+        },
+        {
+          "name": "Front of House",
+          "children": []
+        },
+        {
+          "name": "Portals Bermuda",
+          "children": []
+        },
+        {
+          "name": "The Caves",
+          "children": []
+        },
+        {
+          "name": "The Forest",
+          "children": []
+        },
+        {
+          "name": "The House",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "omega-mart",
+      "children": [
+        {
+          "name": "Factory",
+          "children": []
+        },
+        {
+          "name": "Dramcorp",
+          "children": []
+        },
+        {
+          "name": "Front of House",
+          "children": []
+        },
+        {
+          "name": "Omega Mart",
+          "children": []
+        },
+        {
+          "name": "Seven Monolith Village",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "convergence-station",
+      "children": [
+        {
+          "name": "Eemia",
+          "children": []
+        },
+        {
+          "name": "Ossuary",
+          "children": []
+        },
+        {
+          "name": "Front of House",
+          "children": []
+        },
+        {
+          "name": "Numina",
+          "children": []
+        },
+        {
+          "name": "Transit Station",
+          "children": []
+        },
+        {
+          "name": "C Street",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
