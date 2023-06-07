@@ -47,6 +47,13 @@ const getProjects = async (page) => {
   return projects;
 };
 
+const getNumPeeps = async (page) => {
+  const numPeeps = await page.evaluate(() => {
+    return document?.querySelectorAll("a.link-pink")?.length || 100;
+  });
+  return numPeeps;
+};
+
 const BASE_URL = "https://credits.meowwolf.com";
 let json = {};
 
@@ -54,19 +61,20 @@ let json = {};
   const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
 
-  await page.goto(BASE_URL, { waitUntil: "load" });
+  await page.goto(BASE_URL, { waitUntil: "networkidle0" });
 
   const exhibitions = await getExhibitions(page);
   json["name"] = "exhibitions";
   json["children"] = [];
 
-  exhibitions.forEach((exhibit) => {
-    json["children"].push({ name: exhibit.title, children: [] });
-  });
+  // exhibitions.forEach((exhibit) => {
+  //   json["children"].push({ name: exhibit.title, children: [] });
+  // });
 
   let anchors = [];
   for (let i = 0; i < exhibitions.length; i++) {
-    await page.goto(exhibitions[i].slug, { waitUntil: "load" });
+    json["children"].push({ name: exhibitions[i].title, children: [] });
+    await page.goto(exhibitions[i].slug, { waitUntil: "networkidle0" });
     anchors = await getAnchors(page);
 
     for (let j = 0; j < anchors.length; j++) {
@@ -74,23 +82,19 @@ let json = {};
         name: anchors[j].title,
         children: [],
       });
-      const url = `${exhibitions[i].slug}/${anchors[j].href}`;
-      console.log(url);
-      await page.goto(url, { waitUntil: "load" });
-      const elements = await page.$$("li button");
-      // Get the last selected element
-      const lastElement = elements[elements.length - 1];
-
-      // Click on the last selected element
-      await lastElement.click();
+      const url = `${exhibitions[i].slug}/${anchors[j].href}#projects`;
+      await page.goto(url, { waitUntil: "networkidle0" });
       const projects = await getProjects(page);
       for (let k = 0; k < projects.length; k++) {
+        const projectName = projects[k].title;
+        const projectUrl = `${exhibitions[i].slug}/${anchors[j].href}/${projectName}`;
+        await page.goto(projectUrl, { waitUntil: "networkidle0" });
+        const numPeeps = await getNumPeeps(page)
         json.children?.[i].children?.[j].children.push({
-          name: projects[k].title,
-          size: 100,
+          name: projectName,
+          size: numPeeps,
         });
       }
-      console.log({ projects });
     }
   }
 
