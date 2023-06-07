@@ -5,74 +5,69 @@
       "name": "HOER",
       "children": [
         {
-          "name": "Art City",
-          "children": [
-            {
-              "name": "Lazer Harp Projections",
-              "size": 100
-            },
-            {
-              "name": "Star Tracer",
-              "size": 100
-            }
-          ]
+          "name": "ArtCity",
+          "size": 100
         },
         {
-          "name": "The House",
-          "children": [
-            {
-              "name": "Lazer Harp Projections",
-              "size": 100
-            },
-            {
-              "name": "Star Tracer",
-              "size": 100
-            }
-          ]
+          "name": "StarTracer",
+          "size": 100
+        }
+      ]
+    },
+    {
+      "name": "TheHouse",
+      "children": [
+        {
+          "name": "ArtCity",
+          "size": 100
         },
         {
-          "name": "Front of House",
-          "children": [
-            {
-              "name": "Becoming Human",
-              "size": 100
-            }
-          ]
+          "name": "StarTracer",
+          "size": 100
+        }
+      ]
+    },
+    {
+      "name": "FrontofHouse",
+      "children": [
+        {
+          "name": "BecomingHuman",
+          "size": 100
+        }
+      ]
+    },
+    {
+      "name": "TheForest",
+      "children": [
+        {
+          "name": "ArtCity",
+          "size": 100
         },
         {
-          "name": "The Forest",
-          "children": [
-            {
-              "name": "Lazer Harp Projections",
-              "size": 100
-            },
-            {
-              "name": "Star Tracer",
-              "size": 100
-            }
-          ]
+          "name": "StarTracer",
+          "size": 100
+        }
+      ]
+    },
+    {
+      "name": "BeamSpace",
+      "children": [
+        {
+          "name": "ArtCity",
+          "size": 100
         },
         {
-          "name": "Beam Space",
-          "children": [
-            {
-              "name": "Lazer Harp Projections",
-              "size": 100
-            },
-            {
-              "name": "Star Tracer",
-              "size": 100
-            }
-          ]
-        },
+          "name": "StarTracer",
+          "size": 100
+        }
+      ]
+    },
+    {
+      "name": "TheCaves",
+      "children": [
         {
-          "name": "The Caves",
-          "children": [
-            {
-              "name": "Glowquarium",
-              "size": 100
-            }
-          ]
+          "name": "Glowquarium",
+          "size": 100
         }
       ]
     }
