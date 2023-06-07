@@ -36,7 +36,7 @@
             { "name": "Star Tracer", "size": 100 }
           ]
         },
-        { "name": "The Caves", "children": ["Glowquarium"], "size": 100 }
+        { "name": "The Caves", "children": [{ "name": "Glowquarium", "size": 100 }]}
       ]
     }
   ]
