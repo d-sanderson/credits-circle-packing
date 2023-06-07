@@ -1,5 +1,5 @@
 {
-  "name": "flare",
+  "name": "exhibitions",
   "children": [
     {
       "name": "HOER",
@@ -7,36 +7,73 @@
         {
           "name": "Art City",
           "children": [
-            { "name": "Lazer Harp Projections", "size": 100 },
-            { "name": "Star Tracer", "size": 100 }
+            {
+              "name": "Lazer Harp Projections",
+              "size": 100
+            },
+            {
+              "name": "Star Tracer",
+              "size": 100
+            }
           ]
         },
         {
           "name": "The House",
           "children": [
-            { "name": "Lazer Harp Projections", "size": 100 },
-            { "name": "Star Tracer", "size": 100 }
+            {
+              "name": "Lazer Harp Projections",
+              "size": 100
+            },
+            {
+              "name": "Star Tracer",
+              "size": 100
+            }
           ]
         },
         {
           "name": "Front of House",
-          "children": [{ "name": "Becoming Human", "size": 100 }],
+          "children": [
+            {
+              "name": "Becoming Human",
+              "size": 100
+            }
+          ]
         },
         {
           "name": "The Forest",
           "children": [
-            { "name": "Lazer Harp Projections", "size": 100 },
-            { "name": "Star Tracer", "size": 100 }
+            {
+              "name": "Lazer Harp Projections",
+              "size": 100
+            },
+            {
+              "name": "Star Tracer",
+              "size": 100
+            }
           ]
         },
         {
           "name": "Beam Space",
           "children": [
-            { "name": "Lazer Harp Projections", "size": 100 },
-            { "name": "Star Tracer", "size": 100 }
+            {
+              "name": "Lazer Harp Projections",
+              "size": 100
+            },
+            {
+              "name": "Star Tracer",
+              "size": 100
+            }
           ]
         },
-        { "name": "The Caves", "children": [{ "name": "Glowquarium", "size": 100 }]}
+        {
+          "name": "The Caves",
+          "children": [
+            {
+              "name": "Glowquarium",
+              "size": 100
+            }
+          ]
+        }
       ]
     }
   ]
